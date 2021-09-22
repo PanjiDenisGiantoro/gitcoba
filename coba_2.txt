@@ -1,0 +1,5 @@
+64663c8 (HEAD -> master) hapus coba3.txt
+66d88e7 update file
+4fd7da7 rubah tadi
+8a747d6 nambah file 2 & 3
+183a81b menambah coba.txt yayaaa
